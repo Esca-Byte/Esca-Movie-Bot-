@@ -1,0 +1,26 @@
+{
+    "name": "discord-movie-bot",
+    "version": "1.0.0",
+    "description": "A Discord bot for managing movie and webseries watch links.",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "dev": "nodemon index.js",
+        "db:migrate": "node scripts/migrate-json-to-mysql.js"
+    },
+    "keywords": [],
+    "author": "Esca",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^1.7.7",
+        "discord.js": "^14.22.0",
+        "dotenv": "^17.2.1",
+        "node-cron": "^4.1.0",
+        "node-fetch": "^3.3.2",
+        "mysql2": "^3.11.3",
+        "uuid": "^11.1.0"
+    },
+    "devDependencies": {
+        "nodemon": "^3.1.4"
+    }
+}

@@ -1,0 +1,2040 @@
+{
+    "botStats": {
+        "totalCommands": 714,
+        "totalMovies": 358,
+        "totalRequests": 167,
+        "uptime": {
+            "startTime": "2025-08-03T09:13:02.312Z",
+            "lastRestart": "2025-10-09T04:39:26.594Z"
+        },
+        "commandUsage": {
+            "randommovie": 10,
+            "optimizedb": 8,
+            "filterbyyear": 3,
+            "filterbyrating": 4,
+            "filterbylanguage": 2,
+            "cleanup": 7,
+            "botstats": 48,
+            "leaderboard": 12,
+            "maintenance": 6,
+            "mostrequested": 3,
+            "requestmovie": 8,
+            "searchmovie": 68,
+            "getmovie": 308,
+            "popularmovies": 4,
+            "scheduledstatus": 2,
+            "help": 25,
+            "savemovie": 130,
+            "checkpermissions": 7,
+            "deletemovie": 16,
+            "listmovies": 20,
+            "delmsg": 6,
+            "updatemovie": 7,
+            "setmoviechannel": 4,
+            "setupguide": 1,
+            "validatesetup": 2,
+            "requestlist": 3
+        },
+        "dailyStats": {
+            "2025-08-03": {
+                "commands": 35,
+                "requests": 3,
+                "moviesAdded": 0
+            },
+            "2025-08-04": {
+                "commands": 5,
+                "requests": 5,
+                "moviesAdded": 0
+            },
+            "2025-08-11": {
+                "commands": 26,
+                "requests": 2,
+                "moviesAdded": 0
+            },
+            "2025-08-12": {
+                "commands": 15,
+                "requests": 4,
+                "moviesAdded": 0
+            },
+            "2025-08-13": {
+                "commands": 11,
+                "requests": 1,
+                "moviesAdded": 0
+            },
+            "2025-08-14": {
+                "commands": 17,
+                "requests": 1,
+                "moviesAdded": 0
+            },
+            "2025-08-15": {
+                "commands": 27,
+                "requests": 7,
+                "moviesAdded": 0
+            },
+            "2025-08-16": {
+                "commands": 39,
+                "requests": 11,
+                "moviesAdded": 0
+            },
+            "2025-08-17": {
+                "commands": 22,
+                "requests": 4,
+                "moviesAdded": 0
+            },
+            "2025-08-18": {
+                "commands": 8,
+                "requests": 1,
+                "moviesAdded": 0
+            },
+            "2025-08-19": {
+                "commands": 23,
+                "requests": 6,
+                "moviesAdded": 0
+            },
+            "2025-08-20": {
+                "commands": 11,
+                "requests": 3,
+                "moviesAdded": 0
+            },
+            "2025-08-21": {
+                "commands": 19,
+                "requests": 7,
+                "moviesAdded": 0
+            },
+            "2025-08-22": {
+                "commands": 13,
+                "requests": 2,
+                "moviesAdded": 0
+            },
+            "2025-08-26": {
+                "commands": 2,
+                "requests": 0,
+                "moviesAdded": 0
+            },
+            "2025-08-27": {
+                "commands": 3,
+                "requests": 0,
+                "moviesAdded": 0
+            },
+            "2025-08-28": {
+                "commands": 52,
+                "requests": 9,
+                "moviesAdded": 0
+            },
+            "2025-08-29": {
+                "commands": 24,
+                "requests": 6,
+                "moviesAdded": 0
+            },
+            "2025-08-30": {
+                "commands": 32,
+                "requests": 7,
+                "moviesAdded": 0
+            },
+            "2025-08-31": {
+                "commands": 18,
+                "requests": 7,
+                "moviesAdded": 0
+            },
+            "2025-09-01": {
+                "commands": 25,
+                "requests": 16,
+                "moviesAdded": 0
+            },
+            "2025-09-02": {
+                "commands": 20,
+                "requests": 11,
+                "moviesAdded": 0
+            },
+            "2025-09-03": {
+                "commands": 21,
+                "requests": 5,
+                "moviesAdded": 0
+            },
+            "2025-09-04": {
+                "commands": 22,
+                "requests": 6,
+                "moviesAdded": 0
+            },
+            "2025-09-05": {
+                "commands": 23,
+                "requests": 5,
+                "moviesAdded": 0
+            },
+            "2025-09-06": {
+                "commands": 19,
+                "requests": 3,
+                "moviesAdded": 0
+            },
+            "2025-09-07": {
+                "commands": 12,
+                "requests": 9,
+                "moviesAdded": 0
+            },
+            "2025-09-08": {
+                "commands": 20,
+                "requests": 7,
+                "moviesAdded": 0
+            },
+            "2025-09-11": {
+                "commands": 1,
+                "requests": 1,
+                "moviesAdded": 0
+            },
+            "2025-09-12": {
+                "commands": 17,
+                "requests": 1,
+                "moviesAdded": 0
+            },
+            "2025-09-13": {
+                "commands": 60,
+                "requests": 10,
+                "moviesAdded": 0
+            },
+            "2025-09-14": {
+                "commands": 72,
+                "requests": 7,
+                "moviesAdded": 0
+            }
+        }
+    },
+    "userActivity": {
+        "userStats": {
+            "1364781998845067385": {
+                "totalCommands": 43,
+                "commandsUsed": {
+                    "randommovie": 1,
+                    "optimizedb": 4,
+                    "filterbyyear": 1,
+                    "filterbyrating": 4,
+                    "filterbylanguage": 1,
+                    "cleanup": 4,
+                    "botstats": 2,
+                    "leaderboard": 3,
+                    "mostrequested": 2,
+                    "requestmovie": 3,
+                    "maintenance": 3,
+                    "searchmovie": 2,
+                    "getmovie": 10,
+                    "popularmovies": 1,
+                    "scheduledstatus": 1,
+                    "help": 1
+                },
+                "lastActivity": "2025-09-14T09:05:11.439Z",
+                "requests": 6
+            },
+            "1134098248215302255": {
+                "totalCommands": 5,
+                "commandsUsed": {
+                    "optimizedb": 2,
+                    "maintenance": 2,
+                    "requestmovie": 1
+                },
+                "lastActivity": "2025-09-14T04:16:29.506Z",
+                "requests": 1
+            },
+            "800653520000253973": {
+                "totalCommands": 331,
+                "commandsUsed": {
+                    "getmovie": 79,
+                    "botstats": 43,
+                    "savemovie": 130,
+                    "checkpermissions": 7,
+                    "mostrequested": 1,
+                    "deletemovie": 16,
+                    "listmovies": 3,
+                    "leaderboard": 7,
+                    "delmsg": 6,
+                    "searchmovie": 17,
+                    "updatemovie": 7,
+                    "requestmovie": 2,
+                    "popularmovies": 2,
+                    "cleanup": 1,
+                    "optimizedb": 2,
+                    "scheduledstatus": 1,
+                    "filterbyyear": 2,
+                    "requestlist": 3,
+                    "help": 2
+                },
+                "lastActivity": "2025-09-14T16:35:15.125Z",
+                "requests": 25
+            },
+            "898478452242518048": {
+                "totalCommands": 1,
+                "commandsUsed": {
+                    "maintenance": 1
+                },
+                "lastActivity": "2025-08-11T17:56:05.015Z"
+            },
+            "1270164138928377948": {
+                "totalCommands": 5,
+                "commandsUsed": {
+                    "getmovie": 5
+                },
+                "lastActivity": "2025-08-22T01:15:52.867Z",
+                "requests": 4
+            },
+            "860415132047769610": {
+                "totalCommands": 2,
+                "commandsUsed": {
+                    "getmovie": 2
+                },
+                "lastActivity": "2025-08-12T15:11:22.557Z",
+                "requests": 2
+            },
+            "1400453291619385446": {
+                "totalCommands": 0,
+                "commandsUsed": {},
+                "requests": 1,
+                "lastActivity": "2025-08-12T17:09:48.316Z"
+            },
+            "1239920797238300704": {
+                "totalCommands": 1,
+                "commandsUsed": {
+                    "searchmovie": 1
+                },
+                "lastActivity": "2025-08-13T13:04:58.310Z"
+            },
+            "1363444362381496522": {
+                "totalCommands": 2,
+                "commandsUsed": {
+                    "help": 1,
+                    "searchmovie": 1
+                },
+                "lastActivity": "2025-08-13T13:54:47.221Z"
+            },
+            "1268546260747423806": {
+                "totalCommands": 3,
+                "commandsUsed": {
+                    "getmovie": 1,
+                    "searchmovie": 2
+                },
+                "lastActivity": "2025-08-13T14:06:37.511Z",
+                "requests": 1
+            },
+            "924984866557296660": {
+                "totalCommands": 3,
+                "commandsUsed": {
+                    "searchmovie": 2,
+                    "getmovie": 1
+                },
+                "lastActivity": "2025-08-14T06:06:05.567Z"
+            },
+            "1355386984570421308": {
+                "totalCommands": 2,
+                "commandsUsed": {
+                    "searchmovie": 2
+                },
+                "lastActivity": "2025-08-14T19:29:20.115Z"
+            },
+            "914490671342174260": {
+                "totalCommands": 4,
+                "commandsUsed": {
+                    "searchmovie": 4
+                },
+                "lastActivity": "2025-08-15T00:14:28.862Z"
+            },
+            "1289920839990644798": {
+                "totalCommands": 1,
+                "commandsUsed": {
+                    "getmovie": 1
+                },
+                "lastActivity": "2025-08-15T00:26:18.861Z"
+            },
+            "1400472514014216214": {
+                "totalCommands": 2,
+                "commandsUsed": {
+                    "help": 1,
+                    "getmovie": 1
+                },
+                "lastActivity": "2025-09-13T16:13:35.429Z",
+                "requests": 1
+            },
+            "1297960024852791397": {
+                "totalCommands": 1,
+                "commandsUsed": {
+                    "help": 1
+                },
+                "lastActivity": "2025-08-15T16:06:52.101Z"
+            },
+            "1371178940881702912": {
+                "totalCommands": 1,
+                "commandsUsed": {
+                    "getmovie": 1
+                },
+                "lastActivity": "2025-08-15T17:12:21.864Z",
+                "requests": 1
+            },
+            "1316455406486425631": {
+                "totalCommands": 4,
+                "commandsUsed": {
+                    "getmovie": 4
+                },
+                "lastActivity": "2025-08-15T18:01:00.455Z",
+                "requests": 4
+            },
+            "1099659976852635739": {
+                "totalCommands": 1,
+                "commandsUsed": {
+                    "getmovie": 1
+                },
+                "lastActivity": "2025-08-15T18:10:25.903Z",
+                "requests": 1
+            },
+            "852951762816991242": {
+                "totalCommands": 2,
+                "commandsUsed": {
+                    "getmovie": 2
+                },
+                "lastActivity": "2025-08-20T18:54:43.391Z",
+                "requests": 1
+            },
+            "1237297243845820486": {
+                "totalCommands": 3,
+                "commandsUsed": {
+                    "getmovie": 3
+                },
+                "lastActivity": "2025-09-13T09:09:53.905Z",
+                "requests": 1
+            },
+            "1358271999939448835": {
+                "totalCommands": 1,
+                "commandsUsed": {
+                    "getmovie": 1
+                },
+                "lastActivity": "2025-08-16T05:11:38.212Z"
+            },
+            "1253584729223991318": {
+                "totalCommands": 1,
+                "commandsUsed": {
+                    "getmovie": 1
+                },
+                "lastActivity": "2025-08-16T06:45:41.707Z",
+                "requests": 1
+            },
+            "1393968756593791097": {
+                "totalCommands": 4,
+                "commandsUsed": {
+                    "getmovie": 4
+                },
+                "lastActivity": "2025-08-18T05:18:38.683Z",
+                "requests": 3
+            },
+            "1046424379891908688": {
+                "totalCommands": 4,
+                "commandsUsed": {
+                    "getmovie": 3,
+                    "help": 1
+                },
+                "lastActivity": "2025-08-29T05:28:31.137Z",
+                "requests": 1
+            },
+            "961614065824854016": {
+                "totalCommands": 3,
+                "commandsUsed": {
+                    "getmovie": 3
+                },
+                "lastActivity": "2025-08-16T11:33:34.911Z",
+                "requests": 3
+            },
+            "1263011540420923412": {
+                "totalCommands": 12,
+                "commandsUsed": {
+                    "getmovie": 12
+                },
+                "lastActivity": "2025-09-03T06:52:35.601Z",
+                "requests": 4
+            },
+            "1253225036899287193": {
+                "totalCommands": 3,
+                "commandsUsed": {
+                    "getmovie": 3
+                },
+                "lastActivity": "2025-08-20T05:20:42.835Z",
+                "requests": 1
+            },
+            "1128704532248014908": {
+                "totalCommands": 1,
+                "commandsUsed": {
+                    "getmovie": 1
+                },
+                "lastActivity": "2025-08-17T04:16:23.699Z",
+                "requests": 1
+            },
+            "1051079111268904970": {
+                "totalCommands": 8,
+                "commandsUsed": {
+                    "searchmovie": 7,
+                    "getmovie": 1
+                },
+                "lastActivity": "2025-08-17T06:58:53.114Z"
+            },
+            "1109838447763533847": {
+                "totalCommands": 3,
+                "commandsUsed": {
+                    "getmovie": 3
+                },
+                "lastActivity": "2025-08-18T15:26:27.413Z",
+                "requests": 1
+            },
+            "812554752188612628": {
+                "totalCommands": 1,
+                "commandsUsed": {
+                    "getmovie": 1
+                },
+                "lastActivity": "2025-08-17T13:24:16.272Z"
+            },
+            "772832922595491840": {
+                "totalCommands": 1,
+                "commandsUsed": {
+                    "searchmovie": 1
+                },
+                "lastActivity": "2025-08-17T13:30:34.842Z"
+            },
+            "1288775198375678009": {
+                "totalCommands": 5,
+                "commandsUsed": {
+                    "getmovie": 5
+                },
+                "lastActivity": "2025-09-11T17:45:56.961Z",
+                "requests": 4
+            },
+            "1284033596121681955": {
+                "totalCommands": 2,
+                "commandsUsed": {
+                    "getmovie": 2
+                },
+                "lastActivity": "2025-09-07T15:17:48.202Z",
+                "requests": 2
+            },
+            "1364808292462759977": {
+                "totalCommands": 2,
+                "commandsUsed": {
+                    "getmovie": 1,
+                    "leaderboard": 1
+                },
+                "lastActivity": "2025-08-22T03:05:27.479Z"
+            },
+            "1375023084083347480": {
+                "totalCommands": 5,
+                "commandsUsed": {
+                    "searchmovie": 4,
+                    "getmovie": 1
+                },
+                "lastActivity": "2025-08-19T05:51:07.756Z"
+            },
+            "1237845938370777172": {
+                "totalCommands": 3,
+                "commandsUsed": {
+                    "getmovie": 3
+                },
+                "lastActivity": "2025-09-02T08:08:07.214Z",
+                "requests": 3
+            },
+            "1242068622516682764": {
+                "totalCommands": 11,
+                "commandsUsed": {
+                    "listmovies": 1,
+                    "searchmovie": 6,
+                    "getmovie": 4
+                },
+                "lastActivity": "2025-08-30T07:19:33.444Z",
+                "requests": 2
+            },
+            "1317405000863060050": {
+                "totalCommands": 9,
+                "commandsUsed": {
+                    "randommovie": 1,
+                    "getmovie": 7,
+                    "listmovies": 1
+                },
+                "lastActivity": "2025-09-06T08:46:11.844Z",
+                "requests": 3
+            },
+            "1154082100560007311": {
+                "totalCommands": 1,
+                "commandsUsed": {
+                    "getmovie": 1
+                },
+                "lastActivity": "2025-08-20T13:53:26.099Z"
+            },
+            "1277878321446649960": {
+                "totalCommands": 2,
+                "commandsUsed": {
+                    "searchmovie": 1,
+                    "listmovies": 1
+                },
+                "lastActivity": "2025-08-21T15:20:46.358Z"
+            },
+            "1321342711076360204": {
+                "totalCommands": 3,
+                "commandsUsed": {
+                    "getmovie": 2,
+                    "requestmovie": 1
+                },
+                "lastActivity": "2025-09-02T15:03:39.959Z",
+                "requests": 3
+            },
+            "1375147015167807489": {
+                "totalCommands": 7,
+                "commandsUsed": {
+                    "getmovie": 6,
+                    "listmovies": 1
+                },
+                "lastActivity": "2025-08-21T18:24:45.144Z",
+                "requests": 4
+            },
+            "960623525159403610": {
+                "totalCommands": 1,
+                "commandsUsed": {
+                    "getmovie": 1
+                },
+                "lastActivity": "2025-08-21T19:29:57.755Z"
+            },
+            "1106809368000876604": {
+                "totalCommands": 1,
+                "commandsUsed": {
+                    "getmovie": 1
+                },
+                "lastActivity": "2025-08-22T06:18:42.127Z"
+            },
+            "1253225665042579502": {
+                "totalCommands": 2,
+                "commandsUsed": {
+                    "getmovie": 2
+                },
+                "lastActivity": "2025-08-22T10:12:37.256Z"
+            },
+            "753794522546307132": {
+                "totalCommands": 7,
+                "commandsUsed": {
+                    "listmovies": 1,
+                    "getmovie": 6
+                },
+                "lastActivity": "2025-09-01T08:19:02.884Z",
+                "requests": 5
+            },
+            "1379411302316900415": {
+                "totalCommands": 2,
+                "commandsUsed": {
+                    "listmovies": 1,
+                    "getmovie": 1
+                },
+                "lastActivity": "2025-08-28T07:26:23.809Z"
+            },
+            "1218939341296898251": {
+                "totalCommands": 3,
+                "commandsUsed": {
+                    "getmovie": 1,
+                    "searchmovie": 2
+                },
+                "lastActivity": "2025-08-28T12:18:24.216Z"
+            },
+            "1372226213329764546": {
+                "totalCommands": 3,
+                "commandsUsed": {
+                    "getmovie": 3
+                },
+                "requests": 2,
+                "lastActivity": "2025-08-28T12:21:11.742Z"
+            },
+            "1190508982801018981": {
+                "totalCommands": 3,
+                "commandsUsed": {
+                    "getmovie": 2,
+                    "cleanup": 1
+                },
+                "lastActivity": "2025-08-28T12:22:48.353Z",
+                "requests": 1
+            },
+            "776129270698868746": {
+                "totalCommands": 1,
+                "commandsUsed": {
+                    "requestmovie": 1
+                },
+                "requests": 1,
+                "lastActivity": "2025-08-28T14:09:21.341Z"
+            },
+            "1216803989211840645": {
+                "totalCommands": 1,
+                "commandsUsed": {
+                    "getmovie": 1
+                },
+                "requests": 1,
+                "lastActivity": "2025-08-29T00:40:04.866Z"
+            },
+            "1410540046221836369": {
+                "totalCommands": 1,
+                "commandsUsed": {
+                    "help": 1
+                },
+                "lastActivity": "2025-08-29T07:09:30.960Z"
+            },
+            "1351939868045086841": {
+                "totalCommands": 1,
+                "commandsUsed": {
+                    "help": 1
+                },
+                "lastActivity": "2025-08-29T09:24:48.944Z"
+            },
+            "1300007793084076056": {
+                "totalCommands": 2,
+                "commandsUsed": {
+                    "searchmovie": 2
+                },
+                "lastActivity": "2025-08-29T12:33:03.341Z"
+            },
+            "1405425955467690146": {
+                "totalCommands": 1,
+                "commandsUsed": {
+                    "help": 1
+                },
+                "lastActivity": "2025-08-29T13:56:58.105Z"
+            },
+            "1271861029772726404": {
+                "totalCommands": 5,
+                "commandsUsed": {
+                    "getmovie": 3,
+                    "randommovie": 1,
+                    "listmovies": 1
+                },
+                "requests": 2,
+                "lastActivity": "2025-08-29T16:25:35.290Z"
+            },
+            "1098185976230182993": {
+                "totalCommands": 2,
+                "commandsUsed": {
+                    "getmovie": 2
+                },
+                "requests": 2,
+                "lastActivity": "2025-09-01T14:13:01.151Z"
+            },
+            "1298128610942783499": {
+                "totalCommands": 1,
+                "commandsUsed": {
+                    "getmovie": 1
+                },
+                "requests": 1,
+                "lastActivity": "2025-08-30T09:57:59.589Z"
+            },
+            "1368553992241545358": {
+                "totalCommands": 1,
+                "commandsUsed": {
+                    "getmovie": 1
+                },
+                "lastActivity": "2025-08-30T15:18:45.590Z"
+            },
+            "1199322669842190336": {
+                "totalCommands": 3,
+                "commandsUsed": {
+                    "getmovie": 3
+                },
+                "requests": 2,
+                "lastActivity": "2025-09-08T14:58:26.818Z"
+            },
+            "1177828716534042705": {
+                "totalCommands": 4,
+                "commandsUsed": {
+                    "getmovie": 4
+                },
+                "requests": 3,
+                "lastActivity": "2025-08-31T09:04:37.050Z"
+            },
+            "1382666881802178591": {
+                "totalCommands": 17,
+                "commandsUsed": {
+                    "getmovie": 17
+                },
+                "lastActivity": "2025-09-12T15:32:51.886Z",
+                "requests": 11
+            },
+            "1249489689019285515": {
+                "totalCommands": 1,
+                "commandsUsed": {
+                    "getmovie": 1
+                },
+                "requests": 1,
+                "lastActivity": "2025-08-31T21:09:17.918Z"
+            },
+            "1042381211944898591": {
+                "totalCommands": 1,
+                "commandsUsed": {
+                    "help": 1
+                },
+                "lastActivity": "2025-08-31T23:30:42.068Z"
+            },
+            "1211188248169152533": {
+                "totalCommands": 14,
+                "commandsUsed": {
+                    "getmovie": 14
+                },
+                "lastActivity": "2025-09-13T13:55:43.567Z",
+                "requests": 7
+            },
+            "761879053304070177": {
+                "totalCommands": 3,
+                "commandsUsed": {
+                    "getmovie": 3
+                },
+                "requests": 3,
+                "lastActivity": "2025-09-01T14:34:06.676Z"
+            },
+            "1065301462034423879": {
+                "totalCommands": 3,
+                "commandsUsed": {
+                    "getmovie": 3
+                },
+                "requests": 2,
+                "lastActivity": "2025-09-01T15:05:43.518Z"
+            },
+            "933288607131770881": {
+                "totalCommands": 1,
+                "commandsUsed": {
+                    "help": 1
+                },
+                "lastActivity": "2025-09-01T21:23:02.146Z"
+            },
+            "317826037050376205": {
+                "totalCommands": 1,
+                "commandsUsed": {
+                    "help": 1
+                },
+                "lastActivity": "2025-09-02T13:23:17.369Z"
+            },
+            "1386088854012035112": {
+                "totalCommands": 1,
+                "commandsUsed": {
+                    "getmovie": 1
+                },
+                "requests": 1,
+                "lastActivity": "2025-09-02T16:46:33.550Z"
+            },
+            "1396891257162170579": {
+                "totalCommands": 1,
+                "commandsUsed": {
+                    "getmovie": 1
+                },
+                "requests": 1,
+                "lastActivity": "2025-09-02T17:42:53.625Z"
+            },
+            "1324044731604406456": {
+                "totalCommands": 14,
+                "commandsUsed": {
+                    "getmovie": 7,
+                    "botstats": 1,
+                    "help": 2,
+                    "leaderboard": 1,
+                    "listmovies": 1,
+                    "cleanup": 1,
+                    "popularmovies": 1
+                },
+                "lastActivity": "2025-09-03T09:36:57.154Z",
+                "requests": 2
+            },
+            "1320309609029697587": {
+                "totalCommands": 3,
+                "commandsUsed": {
+                    "getmovie": 3
+                },
+                "requests": 3,
+                "lastActivity": "2025-09-04T09:45:51.833Z"
+            },
+            "1411616297044934708": {
+                "totalCommands": 1,
+                "commandsUsed": {
+                    "help": 1
+                },
+                "lastActivity": "2025-09-03T13:10:08.198Z"
+            },
+            "1237071468035051631": {
+                "totalCommands": 6,
+                "commandsUsed": {
+                    "botstats": 1,
+                    "getmovie": 2,
+                    "setmoviechannel": 1,
+                    "searchmovie": 1,
+                    "randommovie": 1
+                },
+                "lastActivity": "2025-09-08T05:37:18.443Z",
+                "requests": 1
+            },
+            "1053509942126071818": {
+                "totalCommands": 1,
+                "commandsUsed": {
+                    "getmovie": 1
+                },
+                "lastActivity": "2025-09-04T08:48:48.602Z"
+            },
+            "1361661389046812672": {
+                "totalCommands": 1,
+                "commandsUsed": {
+                    "getmovie": 1
+                },
+                "lastActivity": "2025-09-04T09:28:37.085Z"
+            },
+            "1065775237137965127": {
+                "totalCommands": 3,
+                "commandsUsed": {
+                    "getmovie": 1,
+                    "randommovie": 1,
+                    "listmovies": 1
+                },
+                "requests": 1,
+                "lastActivity": "2025-09-04T11:54:08.818Z"
+            },
+            "1213511600573652992": {
+                "totalCommands": 1,
+                "commandsUsed": {
+                    "getmovie": 1
+                },
+                "requests": 1,
+                "lastActivity": "2025-09-04T15:42:49.707Z"
+            },
+            "1202547779084484620": {
+                "totalCommands": 1,
+                "commandsUsed": {
+                    "help": 1
+                },
+                "lastActivity": "2025-09-04T17:49:28.798Z"
+            },
+            "1348932625838116874": {
+                "totalCommands": 1,
+                "commandsUsed": {
+                    "getmovie": 1
+                },
+                "requests": 1,
+                "lastActivity": "2025-09-04T18:07:50.686Z"
+            },
+            "1413294088932954252": {
+                "totalCommands": 1,
+                "commandsUsed": {
+                    "help": 1
+                },
+                "lastActivity": "2025-09-05T03:55:19.608Z"
+            },
+            "1390894184512356392": {
+                "totalCommands": 1,
+                "commandsUsed": {
+                    "listmovies": 1
+                },
+                "lastActivity": "2025-09-05T07:55:20.259Z"
+            },
+            "936200060113416272": {
+                "totalCommands": 1,
+                "commandsUsed": {
+                    "getmovie": 1
+                },
+                "requests": 1,
+                "lastActivity": "2025-09-05T08:17:40.421Z"
+            },
+            "1293974496453329111": {
+                "totalCommands": 2,
+                "commandsUsed": {
+                    "getmovie": 2
+                },
+                "requests": 1,
+                "lastActivity": "2025-09-14T04:24:36.941Z"
+            },
+            "1178358482588680234": {
+                "totalCommands": 8,
+                "commandsUsed": {
+                    "getmovie": 8
+                },
+                "lastActivity": "2025-09-07T15:43:45.640Z",
+                "requests": 6
+            },
+            "1342411477289533440": {
+                "totalCommands": 4,
+                "commandsUsed": {
+                    "searchmovie": 4
+                },
+                "lastActivity": "2025-09-06T03:29:28.441Z"
+            },
+            "1318528433130700855": {
+                "totalCommands": 4,
+                "commandsUsed": {
+                    "searchmovie": 4
+                },
+                "lastActivity": "2025-09-06T15:11:39.217Z"
+            },
+            "1280813512201080864": {
+                "totalCommands": 1,
+                "commandsUsed": {
+                    "getmovie": 1
+                },
+                "lastActivity": "2025-09-06T17:41:04.623Z"
+            },
+            "1306307307512135754": {
+                "totalCommands": 1,
+                "commandsUsed": {
+                    "help": 1
+                },
+                "lastActivity": "2025-09-06T23:10:51.618Z"
+            },
+            "1328342848952860683": {
+                "totalCommands": 1,
+                "commandsUsed": {
+                    "getmovie": 1
+                },
+                "requests": 1,
+                "lastActivity": "2025-09-07T00:09:10.130Z"
+            },
+            "1279770332026114089": {
+                "totalCommands": 1,
+                "commandsUsed": {
+                    "getmovie": 1
+                },
+                "lastActivity": "2025-09-07T13:12:16.280Z"
+            },
+            "1007196249113509938": {
+                "totalCommands": 2,
+                "commandsUsed": {
+                    "getmovie": 2
+                },
+                "lastActivity": "2025-09-07T13:28:52.941Z",
+                "requests": 1
+            },
+            "758573795433906196": {
+                "totalCommands": 2,
+                "commandsUsed": {
+                    "getmovie": 2
+                },
+                "requests": 1,
+                "lastActivity": "2025-09-08T06:53:03.739Z"
+            },
+            "1364470783572709407": {
+                "totalCommands": 1,
+                "commandsUsed": {
+                    "getmovie": 1
+                },
+                "requests": 1,
+                "lastActivity": "2025-09-08T10:22:55.223Z"
+            },
+            "1253337299924553741": {
+                "totalCommands": 1,
+                "commandsUsed": {
+                    "getmovie": 1
+                },
+                "requests": 1,
+                "lastActivity": "2025-09-08T12:50:06.929Z"
+            },
+            "1243098116417261588": {
+                "totalCommands": 1,
+                "commandsUsed": {
+                    "help": 1
+                },
+                "lastActivity": "2025-09-12T13:25:53.029Z"
+            },
+            "1415302972199407616": {
+                "totalCommands": 1,
+                "commandsUsed": {
+                    "getmovie": 1
+                },
+                "lastActivity": "2025-09-12T16:45:57.913Z"
+            },
+            "1328686950332502120": {
+                "totalCommands": 4,
+                "commandsUsed": {
+                    "getmovie": 2,
+                    "listmovies": 1,
+                    "filterbylanguage": 1
+                },
+                "requests": 1,
+                "lastActivity": "2025-09-13T06:03:33.989Z"
+            },
+            "913014809371480094": {
+                "totalCommands": 4,
+                "commandsUsed": {
+                    "getmovie": 4
+                },
+                "lastActivity": "2025-09-14T12:15:26.885Z",
+                "requests": 3
+            },
+            "1414788625736142981": {
+                "totalCommands": 1,
+                "commandsUsed": {
+                    "getmovie": 1
+                },
+                "requests": 1,
+                "lastActivity": "2025-09-13T07:11:30.455Z"
+            },
+            "1278826489126588531": {
+                "totalCommands": 2,
+                "commandsUsed": {
+                    "randommovie": 1,
+                    "getmovie": 1
+                },
+                "lastActivity": "2025-09-13T10:13:55.482Z"
+            },
+            "1262753827875065955": {
+                "totalCommands": 21,
+                "commandsUsed": {
+                    "help": 3,
+                    "randommovie": 4,
+                    "getmovie": 8,
+                    "setmoviechannel": 1,
+                    "setupguide": 1,
+                    "validatesetup": 2,
+                    "searchmovie": 2
+                },
+                "lastActivity": "2025-09-13T18:29:04.975Z",
+                "requests": 7
+            },
+            "1317948499224039474": {
+                "totalCommands": 3,
+                "commandsUsed": {
+                    "listmovies": 1,
+                    "getmovie": 2
+                },
+                "lastActivity": "2025-09-13T11:39:48.611Z"
+            },
+            "1150752224956403763": {
+                "totalCommands": 8,
+                "commandsUsed": {
+                    "setmoviechannel": 2,
+                    "listmovies": 2,
+                    "botstats": 1,
+                    "help": 1,
+                    "searchmovie": 2
+                },
+                "lastActivity": "2025-09-14T08:17:24.399Z"
+            },
+            "790028376621580299": {
+                "totalCommands": 1,
+                "commandsUsed": {
+                    "help": 1
+                },
+                "lastActivity": "2025-09-13T13:38:48.989Z"
+            },
+            "1297616844240457804": {
+                "totalCommands": 1,
+                "commandsUsed": {
+                    "getmovie": 1
+                },
+                "requests": 1,
+                "lastActivity": "2025-09-14T04:04:42.828Z"
+            },
+            "1358377539290140682": {
+                "totalCommands": 1,
+                "commandsUsed": {
+                    "searchmovie": 1
+                },
+                "lastActivity": "2025-09-14T10:36:39.091Z"
+            },
+            "1326194073752698900": {
+                "totalCommands": 1,
+                "commandsUsed": {
+                    "getmovie": 1
+                },
+                "lastActivity": "2025-09-14T11:33:08.411Z"
+            },
+            "1303111905748975801": {
+                "totalCommands": 1,
+                "commandsUsed": {
+                    "listmovies": 1
+                },
+                "lastActivity": "2025-09-14T14:47:53.840Z"
+            },
+            "990177005641269299": {
+                "totalCommands": 1,
+                "commandsUsed": {
+                    "listmovies": 1
+                },
+                "lastActivity": "2025-09-14T14:48:43.662Z"
+            },
+            "760816026286817351": {
+                "totalCommands": 1,
+                "commandsUsed": {
+                    "getmovie": 1
+                },
+                "requests": 1,
+                "lastActivity": "2025-09-14T15:04:54.963Z"
+            },
+            "1352857833133178901": {
+                "totalCommands": 1,
+                "commandsUsed": {
+                    "listmovies": 1
+                },
+                "lastActivity": "2025-09-14T15:19:10.369Z"
+            },
+            "1378097755335163934": {
+                "totalCommands": 1,
+                "commandsUsed": {
+                    "getmovie": 1
+                },
+                "lastActivity": "2025-09-14T16:17:13.981Z"
+            }
+        },
+        "mostActiveUsers": [],
+        "topRequesters": []
+    },
+    "movieStats": {
+        "mostRequested": [
+            {
+                "movieName": "Saiyara",
+                "count": 5
+            },
+            {
+                "movieName": "Aashiqui 2",
+                "count": 3
+            },
+            {
+                "movieName": "2012",
+                "count": 3
+            },
+            {
+                "movieName": "stree 2",
+                "count": 2
+            },
+            {
+                "movieName": "ice age the adventures of buck wild",
+                "count": 2
+            },
+            {
+                "movieName": "lokah",
+                "count": 2
+            },
+            {
+                "movieName": "Metamorphosis 2019",
+                "count": 2
+            },
+            {
+                "movieName": "pardesiya",
+                "count": 2
+            },
+            {
+                "movieName": "adbhut",
+                "count": 2
+            },
+            {
+                "movieName": "dexter",
+                "count": 2
+            },
+            {
+                "movieName": "sultan",
+                "count": 2
+            },
+            {
+                "movieName": "KGF",
+                "count": 2
+            },
+            {
+                "movieName": "BAGHI 4",
+                "count": 2
+            },
+            {
+                "movieName": "STUDENT OF THE YEAR 1",
+                "count": 2
+            },
+            {
+                "movieName": "f1",
+                "count": 2
+            },
+            {
+                "movieName": "hala",
+                "count": 1
+            },
+            {
+                "movieName": "helo",
+                "count": 1
+            },
+            {
+                "movieName": "keloa",
+                "count": 1
+            },
+            {
+                "movieName": "Sukh",
+                "count": 1
+            },
+            {
+                "movieName": "esak",
+                "count": 1
+            },
+            {
+                "movieName": "sukakka",
+                "count": 1
+            },
+            {
+                "movieName": "Escakin",
+                "count": 1
+            },
+            {
+                "movieName": "Shouts",
+                "count": 1
+            },
+            {
+                "movieName": "Maa Nanna Superhero",
+                "count": 1
+            },
+            {
+                "movieName": "demon slayer",
+                "count": 1
+            },
+            {
+                "movieName": "Game of Thrones season 1",
+                "count": 1
+            },
+            {
+                "movieName": "my sassy girl hindi",
+                "count": 1
+            },
+            {
+                "movieName": "my sassy girl",
+                "count": 1
+            },
+            {
+                "movieName": "fake boyfriend",
+                "count": 1
+            },
+            {
+                "movieName": "365days",
+                "count": 1
+            },
+            {
+                "movieName": "Saare Jahan Se Accha: The Silent Guardians",
+                "count": 1
+            },
+            {
+                "movieName": "Superman",
+                "count": 1
+            },
+            {
+                "movieName": "war2",
+                "count": 1
+            },
+            {
+                "movieName": "Transformers: Rise of the Beasts",
+                "count": 1
+            },
+            {
+                "movieName": "Transformers Rise of the Beasts",
+                "count": 1
+            },
+            {
+                "movieName": "Transformers Dark of the Moon",
+                "count": 1
+            },
+            {
+                "movieName": "Bumblebee",
+                "count": 1
+            },
+            {
+                "movieName": "porn",
+                "count": 1
+            },
+            {
+                "movieName": "peaky blonders",
+                "count": 1
+            },
+            {
+                "movieName": "Death Note",
+                "count": 1
+            },
+            {
+                "movieName": "stree",
+                "count": 1
+            },
+            {
+                "movieName": "bheem",
+                "count": 1
+            },
+            {
+                "movieName": "Doramon",
+                "count": 1
+            },
+            {
+                "movieName": "ovie365 Days",
+                "count": 1
+            },
+            {
+                "movieName": "doraemon",
+                "count": 1
+            },
+            {
+                "movieName": "The amezing Spider man",
+                "count": 1
+            },
+            {
+                "movieName": "narshimha",
+                "count": 1
+            },
+            {
+                "movieName": "Ice Age: Dawn of the Dinosaurs CBFC",
+                "count": 1
+            },
+            {
+                "movieName": "Mission: Impossible – The Final Reckoning",
+                "count": 1
+            },
+            {
+                "movieName": "chota bheem",
+                "count": 1
+            },
+            {
+                "movieName": "the autopsy of jane doe",
+                "count": 1
+            },
+            {
+                "movieName": "Do Little",
+                "count": 1
+            },
+            {
+                "movieName": "munna bhai mbbs",
+                "count": 1
+            },
+            {
+                "movieName": "lage raho munna bhai",
+                "count": 1
+            },
+            {
+                "movieName": "Ajey: The Untold Story of a Yogi",
+                "count": 1
+            },
+            {
+                "movieName": "Hari Hara Veera Mallu",
+                "count": 1
+            },
+            {
+                "movieName": "Tabaah",
+                "count": 1
+            },
+            {
+                "movieName": "Oh My Kadavule",
+                "count": 1
+            },
+            {
+                "movieName": "Harry Potter and the Chamber of Secrets",
+                "count": 1
+            },
+            {
+                "movieName": "harry Potter",
+                "count": 1
+            },
+            {
+                "movieName": "the old guard 2",
+                "count": 1
+            },
+            {
+                "movieName": "worldwar z",
+                "count": 1
+            },
+            {
+                "movieName": "dexter resuruction",
+                "count": 1
+            },
+            {
+                "movieName": "Premalu",
+                "count": 1
+            },
+            {
+                "movieName": "Tehran",
+                "count": 1
+            },
+            {
+                "movieName": "I Know What You Did Last Summer",
+                "count": 1
+            },
+            {
+                "movieName": "The Bad Guys 2",
+                "count": 1
+            },
+            {
+                "movieName": "Kingdom",
+                "count": 1
+            },
+            {
+                "movieName": "war  2",
+                "count": 1
+            },
+            {
+                "movieName": "doctor srtrange",
+                "count": 1
+            },
+            {
+                "movieName": "Ship of the Damned",
+                "count": 1
+            },
+            {
+                "movieName": "the bad duys",
+                "count": 1
+            },
+            {
+                "movieName": "batman",
+                "count": 1
+            },
+            {
+                "movieName": "Porn japan",
+                "count": 1
+            },
+            {
+                "movieName": "thudner",
+                "count": 1
+            },
+            {
+                "movieName": "solo liveling",
+                "count": 1
+            },
+            {
+                "movieName": "premonition",
+                "count": 1
+            },
+            {
+                "movieName": "jai ho",
+                "count": 1
+            },
+            {
+                "movieName": "cars 1",
+                "count": 1
+            },
+            {
+                "movieName": "ne zha",
+                "count": 1
+            },
+            {
+                "movieName": "3bhk",
+                "count": 1
+            },
+            {
+                "movieName": "minions(2015)",
+                "count": 1
+            },
+            {
+                "movieName": "Ice Age 5",
+                "count": 1
+            },
+            {
+                "movieName": "Black Panther Wakanda Forever",
+                "count": 1
+            },
+            {
+                "movieName": "BlackPanther Wakanda",
+                "count": 1
+            },
+            {
+                "movieName": "Black Panther",
+                "count": 1
+            },
+            {
+                "movieName": "laxmii",
+                "count": 1
+            },
+            {
+                "movieName": "laxmi",
+                "count": 1
+            },
+            {
+                "movieName": "Gulliver's Travels",
+                "count": 1
+            },
+            {
+                "movieName": "Missão impossível",
+                "count": 1
+            },
+            {
+                "movieName": "Missão: Impossível – Acerto De Contas",
+                "count": 1
+            },
+            {
+                "movieName": "missão impossível 8",
+                "count": 1
+            },
+            {
+                "movieName": "missão impossível 2",
+                "count": 1
+            },
+            {
+                "movieName": "minha baba é uma vampira",
+                "count": 1
+            },
+            {
+                "movieName": "veer zara",
+                "count": 1
+            },
+            {
+                "movieName": "veer zaara",
+                "count": 1
+            },
+            {
+                "movieName": "veer-zaara",
+                "count": 1
+            },
+            {
+                "movieName": "Superman english",
+                "count": 1
+            },
+            {
+                "movieName": "pardesiyaan",
+                "count": 1
+            },
+            {
+                "movieName": "gang",
+                "count": 1
+            },
+            {
+                "movieName": "Tu jhoothi mai makkar",
+                "count": 1
+            },
+            {
+                "movieName": "chhota bheem the rise of kirmada",
+                "count": 1
+            },
+            {
+                "movieName": "love story",
+                "count": 1
+            },
+            {
+                "movieName": "chennai express",
+                "count": 1
+            },
+            {
+                "movieName": "I want to eat your pancreas",
+                "count": 1
+            },
+            {
+                "movieName": "go goa gone",
+                "count": 1
+            },
+            {
+                "movieName": "meyaadha man",
+                "count": 1
+            },
+            {
+                "movieName": "Harry Potter and the Philosopher's Stone",
+                "count": 1
+            },
+            {
+                "movieName": "doreamon",
+                "count": 1
+            },
+            {
+                "movieName": "naruto shipuden",
+                "count": 1
+            },
+            {
+                "movieName": "sword master",
+                "count": 1
+            },
+            {
+                "movieName": "Lilo & Stitch",
+                "count": 1
+            },
+            {
+                "movieName": "Sindhubaadh",
+                "count": 1
+            },
+            {
+                "movieName": "conjuring last rites",
+                "count": 1
+            },
+            {
+                "movieName": "Demon Slayer: Kimetsu no Yaiba Infinity Castle 󠁯",
+                "count": 1
+            },
+            {
+                "movieName": "little hearts",
+                "count": 1
+            },
+            {
+                "movieName": "The Conjuring Last Rites",
+                "count": 1
+            },
+            {
+                "movieName": "nexxlokesh",
+                "count": 1
+            },
+            {
+                "movieName": "overflow",
+                "count": 1
+            },
+            {
+                "movieName": "Kung Fu Panda 2",
+                "count": 1
+            },
+            {
+                "movieName": "ENTHIRAN",
+                "count": 1
+            },
+            {
+                "movieName": "sexy xxx",
+                "count": 1
+            },
+            {
+                "movieName": "highschool dxd",
+                "count": 1
+            },
+            {
+                "movieName": "Kedarnath",
+                "count": 1
+            },
+            {
+                "movieName": "BAGHI4",
+                "count": 1
+            },
+            {
+                "movieName": "BAGHI",
+                "count": 1
+            },
+            {
+                "movieName": "super man",
+                "count": 1
+            },
+            {
+                "movieName": "Madharaasi",
+                "count": 1
+            },
+            {
+                "movieName": "demon slayer infinity castle",
+                "count": 1
+            },
+            {
+                "movieName": "Oho Enthan Baby",
+                "count": 1
+            },
+            {
+                "movieName": "DJ",
+                "count": 1
+            },
+            {
+                "movieName": "stanger things",
+                "count": 1
+            },
+            {
+                "movieName": "solo levelling",
+                "count": 1
+            },
+            {
+                "movieName": "Anyone but you",
+                "count": 1
+            },
+            {
+                "movieName": "Taitanic",
+                "count": 1
+            },
+            {
+                "movieName": "Naruto: Shippuden",
+                "count": 1
+            },
+            {
+                "movieName": "the hobite",
+                "count": 1
+            },
+            {
+                "movieName": "the hobbit: the desolation of smaug",
+                "count": 1
+            },
+            {
+                "movieName": "the hobbit",
+                "count": 1
+            },
+            {
+                "movieName": "berserk",
+                "count": 1
+            },
+            {
+                "movieName": "Crew",
+                "count": 1
+            },
+            {
+                "movieName": "paramsundari",
+                "count": 1
+            },
+            {
+                "movieName": "param sundari",
+                "count": 1
+            },
+            {
+                "movieName": "Gran Tourismo",
+                "count": 1
+            },
+            {
+                "movieName": "Gran Turismo",
+                "count": 1
+            },
+            {
+                "movieName": "escac",
+                "count": 1
+            },
+            {
+                "movieName": "level 16",
+                "count": 1
+            }
+        ],
+        "mostViewed": [
+            {
+                "movieName": "Saiyaara",
+                "count": 22
+            },
+            {
+                "movieName": "Ne Zha 2",
+                "count": 11
+            },
+            {
+                "movieName": "War 2",
+                "count": 6
+            },
+            {
+                "movieName": "Thunderbolts*",
+                "count": 5
+            },
+            {
+                "movieName": "Coolie",
+                "count": 5
+            },
+            {
+                "movieName": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+                "count": 5
+            },
+            {
+                "movieName": "Superman",
+                "count": 4
+            },
+            {
+                "movieName": "Wednesday Season 2",
+                "count": 4
+            },
+            {
+                "movieName": "Naruto (Season 1-4)",
+                "count": 4
+            },
+            {
+                "movieName": "The Bad Guys 2",
+                "count": 3
+            },
+            {
+                "movieName": "Pushpa 2 - The Rule",
+                "count": 3
+            },
+            {
+                "movieName": "Cars 3",
+                "count": 3
+            },
+            {
+                "movieName": "Demon Slayer: Kimetsu no Yaiba",
+                "count": 3
+            },
+            {
+                "movieName": "365 Days",
+                "count": 2
+            },
+            {
+                "movieName": "Mahavatar Narsimha",
+                "count": 2
+            },
+            {
+                "movieName": "The Bad Guys",
+                "count": 2
+            },
+            {
+                "movieName": "Housefull 5",
+                "count": 2
+            },
+            {
+                "movieName": "Stree",
+                "count": 2
+            },
+            {
+                "movieName": "Minions: The Rise of Gru",
+                "count": 2
+            },
+            {
+                "movieName": "Sitaare Zameen Par",
+                "count": 2
+            },
+            {
+                "movieName": "Premalu",
+                "count": 2
+            },
+            {
+                "movieName": "Tehran",
+                "count": 2
+            },
+            {
+                "movieName": "Doctor Strange in the Multiverse of Madness",
+                "count": 2
+            },
+            {
+                "movieName": "My Fault",
+                "count": 2
+            },
+            {
+                "movieName": "Leo",
+                "count": 2
+            },
+            {
+                "movieName": "#Single",
+                "count": 2
+            },
+            {
+                "movieName": "Spider-Man",
+                "count": 2
+            },
+            {
+                "movieName": "Mirzapur",
+                "count": 1
+            },
+            {
+                "movieName": "King Kong",
+                "count": 1
+            },
+            {
+                "movieName": "Peaky Blinders",
+                "count": 1
+            },
+            {
+                "movieName": "Ice Age",
+                "count": 1
+            },
+            {
+                "movieName": "Ice Age: The Meltdown",
+                "count": 1
+            },
+            {
+                "movieName": "The Boss Baby: Family Business",
+                "count": 1
+            },
+            {
+                "movieName": "Ice Age: Dawn of the Dinosaurs",
+                "count": 1
+            },
+            {
+                "movieName": "Ice Age: Continental Drift",
+                "count": 1
+            },
+            {
+                "movieName": "Sinners",
+                "count": 1
+            },
+            {
+                "movieName": "Ice Age: Collision Course",
+                "count": 1
+            },
+            {
+                "movieName": "Johnny English Strikes Again",
+                "count": 1
+            },
+            {
+                "movieName": "The Ice Age Adventures of Buck Wild",
+                "count": 1
+            },
+            {
+                "movieName": "The Naked Director",
+                "count": 1
+            },
+            {
+                "movieName": "The Old Guard",
+                "count": 1
+            },
+            {
+                "movieName": "6 Underground",
+                "count": 1
+            },
+            {
+                "movieName": "Stree 2",
+                "count": 1
+            },
+            {
+                "movieName": "Vash Level 2",
+                "count": 1
+            },
+            {
+                "movieName": "Kingdom",
+                "count": 1
+            },
+            {
+                "movieName": "The Conjuring",
+                "count": 1
+            },
+            {
+                "movieName": "Mission: Impossible - The Final Reckoning",
+                "count": 1
+            },
+            {
+                "movieName": "Jurassic World Rebirth",
+                "count": 1
+            },
+            {
+                "movieName": "Chhota Bheem ki Citi Pitti Gul",
+                "count": 1
+            },
+            {
+                "movieName": "Harry Potter and the Chamber of Secrets",
+                "count": 1
+            },
+            {
+                "movieName": "Lokah Chapter 1: Chandra",
+                "count": 1
+            },
+            {
+                "movieName": "eleven 2025",
+                "count": 1
+            },
+            {
+                "movieName": "Ne Zha",
+                "count": 1
+            },
+            {
+                "movieName": "RRR",
+                "count": 1
+            },
+            {
+                "movieName": "Overflow",
+                "count": 1
+            },
+            {
+                "movieName": "Student of the Year 2",
+                "count": 1
+            },
+            {
+                "movieName": "Baaghi 4",
+                "count": 1
+            },
+            {
+                "movieName": "Salaar: Part 1 - Ceasefire",
+                "count": 1
+            },
+            {
+                "movieName": "The Lord of the Rings: The Fellowship of the Ring",
+                "count": 1
+            },
+            {
+                "movieName": "Tokyo Revengers",
+                "count": 1
+            },
+            {
+                "movieName": "Param Sundari",
+                "count": 1
+            },
+            {
+                "movieName": "Dexter: Original Sin",
+                "count": 1
+            },
+            {
+                "movieName": "Avengers: Endgame",
+                "count": 1
+            },
+            {
+                "movieName": "The Greatest of All Time",
+                "count": 1
+            },
+            {
+                "movieName": "Friends with Benefits",
+                "count": 1
+            },
+            {
+                "movieName": "Diary of a Nymphomaniac",
+                "count": 1
+            },
+            {
+                "movieName": "Naughty Girl",
+                "count": 1
+            }
+        ],
+        "popularGenres": [],
+        "popularLanguages": []
+    },
+    "serverStats": {
+        "totalServers": 0,
+        "activeServers": 0,
+        "serverActivity": {}
+    }
+}
